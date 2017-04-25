@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resume.png</file>
+        <file>stop.png</file>
+        <file>disabled.png</file>
+        <file>enabled.png</file>
+    </qresource>
+</RCC>
